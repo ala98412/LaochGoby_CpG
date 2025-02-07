@@ -8,7 +8,7 @@ do
 	./1_create5k_bed.sh $sp $term
 
 	printf "%4s => countGC\n" ""
-	./2_creatPureInterval_and_GCcount.py $sp $term
+	./2_creatPureInterval_and_CpG_cal.py $sp $term
 done
 
 echo ""

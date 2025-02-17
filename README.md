@@ -5,4 +5,4 @@ Tzi-Yuan Wang 1,#, Yu-Wei Wu 2,3,4,#, Hao-Jun Lu 5,6,#, Te-Yu Liao 7, Jui-Hung T
 Codes contain:
 1. Bash file for gene annotation (gene_annotation.sh)
 2. Bash file for TEs annotation (TE_annotation.sh)
-3. Python script for CpG analysis ()
+3. Python script for CpG analysis (Folder CpG_Analysis/*)
